@@ -3,11 +3,10 @@
 ## 一、部署智能合约
 ##### https://remix.ethereum.org/
 
-    新建合约文件，填写文件名称
+##### 新建合约文件，填写文件名称
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/47f6f537-8199-4be8-96ae-7823f2d01fea)
 
-
-    将如下代码复制到右侧空白处
+##### 将如下代码复制到右侧空白处
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.4;
 
