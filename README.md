@@ -44,7 +44,8 @@
         }
     }
 
-
+##### 版本选择soljson-v0.8.18+commit.87f61d96，再编译
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/5c97cdcb-155d-41a2-9b81-f479f3aa3991)
 
 
 
