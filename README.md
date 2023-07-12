@@ -5,6 +5,7 @@
     官网地址：https://scroll.io/portal    
     
 #### 将网络（Goerli 测试网和 Scroll Alpha 测试网）添加到 metamask 钱包
+![123](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/a565f511-6bae-4a35-b0a3-326d6604fc89)
 
 #### 2、准备Goerli网络测试币
     最好通过水龙头获得GETH，帐户转帐有被查风险
