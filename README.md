@@ -20,12 +20,12 @@
         function add() external{
             number = number + 1;
         }
-        // pure: 纯纯牛马
+        // pure
         function addPure(uint256 _number) external pure returns(uint256 new_number){
             new_number = _number+1;
         }
         
-        // view: 看客
+        // view
         function addView() external view returns(uint256 new_number) {
             new_number = number + 1;
         }
@@ -37,7 +37,7 @@
         function minusCall() external {
             minus();
         }
-        // payable: 递钱，能给合约支付eth的函数
+        // payable: 能给合约支付eth的函数
         function minusPayable() external payable returns(uint256 balance) {
             minus();    
             balance = address(this).balance;
