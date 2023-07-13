@@ -219,14 +219,23 @@
 #### 添加流动性，可按照下图数据填写
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/50c63362-0dc5-4cc7-b90a-7b5ec56b040e)
 
-## 自定义token的交易，想办法交易100次！！！
+## 创建自定义token（方式二）
+#### 新建合约文件，填写文件名称（操作方式与上述相同）
+#### 打开网站：https://docs.openzeppelin.com/contracts/4.x/wizard
+#### 填写Name（最好与合约名称一致）、symbol、Premint
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/1ca185b9-857c-4b46-9b14-ee94b15c9831)
 
+#### 将右侧生成的代码复制到Remix的右侧空白处
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/5a6ebb3c-923d-42f5-87dd-bc07501326dd)
 
+#### 编译合约，操作与上述相同
 
+#### 部署合约
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/8a0b910e-00e7-4b6f-9ba9-11df23b6c576)
 
+#### 将token导入小狐狸钱包（操作方式与上述相同）
 
-
-
+#### 
 
 
 
