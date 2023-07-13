@@ -10,7 +10,7 @@
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.4;
 
-        contract FunctionTypes{
+    contract FunctionTypes{
         uint256 public number = 5;
         
         constructor() payable {}
@@ -44,10 +44,10 @@
         }
     }
 
-#### 版本选择soljson-v0.8.18+commit.87f61d96，再编译
+#### 编译合约，版本选择soljson-v0.8.18+commit.87f61d96，再点击编译按钮
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/5c97cdcb-155d-41a2-9b81-f479f3aa3991)
 
-#### 部署合约，选择 Injected provider (metamask)，确保在Scroll Alpha 网络上，并检查地址是否正确
+#### 部署合约，选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确，点击部署按钮并在小狐狸钱包中确认
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/d4f0ae04-7dba-41b3-8aad-dba6bb07c838)
 
 #### 如果合约部署成功，将看到如下所示的消息
@@ -167,11 +167,14 @@
         }
     }
 
+#### 编译合约，版本选择soljson-v0.8.18+commit.87f61d96，再点击编译按钮
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/51f31c49-bc1d-49bb-80a4-081987ee6583)
 
+#### 部署合约，选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确。点开【DEPLOY】右侧箭头，填写【NAME、symbol】，点击【transact】按钮并在小狐狸钱包中确认
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/816e9b79-ca84-44b6-844b-177fd3f024d9)
 
-
-
-
+#### Mint Token，点开【ERC20 AT...】左侧的箭头，打开【mint】右侧的箭头，输入金额 1800000000000000000000，点击交易按钮并在小狐狸钱包中确认
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/9042440b-a1f7-4b07-b14a-e35335dca9f9)
 
 
 
