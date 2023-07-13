@@ -55,20 +55,23 @@
         }
     }
 
-#### 编译合约，版本选择soljson-v0.8.18+commit.87f61d96，再点击编译按钮
+#### 编译合约
+#### 版本选择v0.8.18+commit.87f61d96，再点击编译按钮
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/5c97cdcb-155d-41a2-9b81-f479f3aa3991)
 
-#### 部署合约，选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确，点击部署按钮并在小狐狸钱包中确认
+#### 部署合约
+#### 选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确
+#### 点击部署按钮并在小狐狸钱包中确认
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/d4f0ae04-7dba-41b3-8aad-dba6bb07c838)
 
 #### 如果合约部署成功，将看到如下所示的消息
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/6e8fcc75-da38-4305-84fb-8748e7396568)
 
 
-
 ## 三、创建自定义token
 #### 新建合约文件，填写文件名称
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/deb2a8db-ca89-4a3e-a788-9e39a909b6e1)
+
 #### 将如下代码复制到右侧空白处
     // SPDX-License-Identifier: MIT
     // WTF Solidity by 0xAA
@@ -180,16 +183,26 @@
         }
     }
 
-#### 编译合约，版本选择soljson-v0.8.18+commit.87f61d96，再点击编译按钮
+#### 编译合约
+#### 版本选择v0.8.18+commit.87f61d96，再点击编译按钮
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/51f31c49-bc1d-49bb-80a4-081987ee6583)
 
-#### 部署合约，选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确。点开【DEPLOY】右侧箭头，填写【NAME、symbol】，点击【transact】按钮并在小狐狸钱包中确认
+#### 部署合约
+#### 选择 Injected provider (metamask)，确保小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确
+#### 点开【DEPLOY】右侧箭头，填写【NAME、symbol】
+#### 点击【transact】按钮并在小狐狸钱包中确认
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/816e9b79-ca84-44b6-844b-177fd3f024d9)
 
-#### Mint Token，点开【ERC20 AT...】左侧的箭头，打开【mint】右侧的箭头，输入金额 1800000000000000000000，点击交易按钮并在小狐狸钱包中确认
+#### Mint Token
+#### 点开【ERC20 AT...】左侧的箭头
+#### 打开【mint】右侧的箭头
+#### 输入金额 1800000000000000000000
+#### 点击交易按钮并在小狐狸钱包中确认
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/9042440b-a1f7-4b07-b14a-e35335dca9f9)
 
-#### 将token导入小狐狸钱包，复制合约地址，打开小狐狸钱包，自定义添加token
+#### 将token导入小狐狸钱包
+#### 复制合约地址
+#### 打开小狐狸钱包，自定义添加token
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/c389e738-7c52-4c42-b8ee-c7bc48c241eb)
 
 #### 将合约地址粘添到输入框中，添加token
