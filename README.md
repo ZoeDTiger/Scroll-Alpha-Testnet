@@ -1,6 +1,17 @@
 # Scroll Pre-alpha Testnet
 
-## 一、部署智能合约
+## 一、准备
+#### 登录：https://scroll.io/portal
+#### 将网络（Goerli 测试网和 Scroll Alpha 测试网）添加到 metamask 钱包
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/a04fc52b-6f5d-4772-afd1-fb6898523969)
+
+#### 想办法得到GETH，并将 ETH 从 goerli testnet 发送到 Scroll Alpha testnet 网络
+#### 登录：https://scroll.io/alpha/bridge
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/dcf537d9-3b68-40b4-94ff-26a5e3957d64)
+
+
+
+## 二、部署智能合约
 #### https://remix.ethereum.org/
 
 #### 新建合约文件，填写文件名称
@@ -53,7 +64,9 @@
 #### 如果合约部署成功，将看到如下所示的消息
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/6e8fcc75-da38-4305-84fb-8748e7396568)
 
-## 二、创建自定义token
+
+
+## 三、创建自定义token
 #### 新建合约文件，填写文件名称
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/deb2a8db-ca89-4a3e-a788-9e39a909b6e1)
 #### 将如下代码复制到右侧空白处
