@@ -182,6 +182,27 @@
 #### 将合约地址粘添到输入框中，添加token
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/765d7f96-d113-4c25-b42d-92573bc9da82)
 
+#### 使用自定义token添加流动性
+#### 登录：https://uniswap-v3.scroll.io/#/pool，点击【new position】按钮，点击【Select a token】，输入自定义token的合约地址
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/2ef34c78-3e5d-4df9-ab81-81041f30f573)
+
+#### 选择查询出来的token，确认风险提示
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/b5e66230-a902-44a6-b55b-ee437394b077)
+
+#### 添加流动性，可按照下图数据填写
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/50c63362-0dc5-4cc7-b90a-7b5ec56b040e)
+
+## 自定义token的交易，想办法交易100次！！！
+
+
+
+
+
+
+
+
+
+
 
 
 
