@@ -68,7 +68,7 @@
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/6e8fcc75-da38-4305-84fb-8748e7396568)
 
 
-## 三、创建自定义token
+## 三、创建自定义token（方式一）
 #### 新建合约文件，填写文件名称
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/deb2a8db-ca89-4a3e-a788-9e39a909b6e1)
 
@@ -235,8 +235,11 @@
 
 #### 将token导入小狐狸钱包（操作方式与上述相同）
 
-#### 
+#### 使用自定义token添加流动性
+#### 查询自定义token方法与上述相同
 
+#### 添加流动性
+#### 第一次设置的时候，要填一些数值来创建初始价格和流动性，可按下图数据填写
 
 
 
