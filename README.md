@@ -230,21 +230,23 @@
 
 #### 编译合约，操作与上述相同
 
-#### 部署合约
-![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/8a0b910e-00e7-4b6f-9ba9-11df23b6c576)
+#### 部署合约（确定小狐狸钱包在Scroll Alpha 网络上并检查地址是否正确）
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/9b138f63-1c2f-47a7-9fac-c7d7f426453e)
 
 #### 将token导入小狐狸钱包（操作方式与上述相同）
 
-#### 使用自定义token添加流动性
-#### 查询自定义token方法与上述相同
-
 #### 添加流动性
+#### 登录：https://uniswap-v3.scroll.io/#/pool
+#### 查询自定义token方法与上述相同
 #### 第一次设置的时候，要填一些数值来创建初始价格和流动性，可按下图数据填写
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/1203d295-dab6-4061-ad86-baa59edc2c6f)
 
+#### 批准代币并设置交易上限
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/b6b153b3-fd80-4c8c-81a1-34c70f827c70)
 
-
-
-
+#### swap交易（100次！！！）
+#### 登录：https://uniswap-v3.scroll.io/#/swap
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/dc8b88ba-aa43-417a-b2f1-43ee53f1480c)
 
 
 
