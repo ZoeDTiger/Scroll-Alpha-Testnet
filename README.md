@@ -176,9 +176,11 @@
 #### Mint Token，点开【ERC20 AT...】左侧的箭头，打开【mint】右侧的箭头，输入金额 1800000000000000000000，点击交易按钮并在小狐狸钱包中确认
 ![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/9042440b-a1f7-4b07-b14a-e35335dca9f9)
 
+#### 将token导入小狐狸钱包，复制合约地址，打开小狐狸钱包，自定义添加token
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/c389e738-7c52-4c42-b8ee-c7bc48c241eb)
 
-
-
+#### 将合约地址粘添到输入框中，添加token
+![image](https://github.com/ZoeDTiger/Scroll-Alpha-Testnet/assets/100336530/765d7f96-d113-4c25-b42d-92573bc9da82)
 
 
 
